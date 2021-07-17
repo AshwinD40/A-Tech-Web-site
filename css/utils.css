@@ -1,0 +1,118 @@
+
+
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,400;1,100&family=Zen+Tokyo+Zoo&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Bhai+2:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@700&family=Lobster&display=swap');
+:root{
+  --main-bg-color: rgb(177, 0, 0);
+  --font1 :'Zen Tokyo Zoo', cursive; 
+  --font2:'Baloo Bhai 2', cursive;
+  --font3:'Lobster', cursive;
+  --font4:'Cinzel Decorative', cursive;
+}
+.font1{
+  font-family: var(--font1);
+}
+.font2{
+  font-family: var(--font2);
+ }
+.font3{
+  font-family: var(--font3);
+}
+.font4{
+  font-family: var(--font4);
+}
+
+.max-width-1{
+  max-width: 80vw;
+}
+.max-width-2{
+    max-width: 60vw;
+}
+
+.m-auto{
+    margin: auto;
+}
+.btn:hover{
+  color:white;
+  background: var(--main-bg-color);
+}
+.btn{
+ border-radius: 25px;
+ padding:4px 18px;
+ padding-top:3px;
+ border: 4px solid black;
+ font-family: var(--font3);
+ font-size: 16px;
+ cursor: pointer;
+ transition: all 0.3s ease-in-out;
+}
+.form-control{
+    
+}
+.form-input{
+    border: 4px solid black;
+    font-size: 18px;
+    padding: 4px 13px;
+    padding-top: 3px;
+    border-radius: 6px;
+    margin: 0 13px;
+    font-family: var(--font3);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
